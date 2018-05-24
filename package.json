@@ -9,7 +9,7 @@
   ],
   "dependencies": {
     "component-raf": "1.2.0",
-    "component-tween": "1.2.0"
+    "component-tween": "git://github.com/AleCaste/tween#master"
   },
   "browser": {
     "raf": "component-raf",
